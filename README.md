@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/johannesbausch/kickstarter-repository">
-    <img src="images/logo.webp" alt="Logo" width="100" height="100">
+    <img src="images/logo.webp" alt="Logo" width="310" height="310">
   </a>
 
   <h1 align="center">README.md Template</h1>
