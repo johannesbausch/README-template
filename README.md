@@ -58,8 +58,6 @@
 
 # 1. Project Information
 
-[![Project-Image][project-image]](https://github.com/johannesbausch/kickstarter-repository)
-
 While there are a lot of well documented open source projects out there, I think it is important to keep it simple and straight forward.
 Because next to the experienced senior developer, there is always a junior that struggles with (mostly spared out) fundamentals.
 <br />
