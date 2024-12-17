@@ -16,11 +16,11 @@
     <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h1 align="center">README-template</h1>
+  <h1 align="center">README.md Template</h1>
 
   <p align="center">
     A cheat code for the lazy folks out there.
-    This `README.md` contains placeholders and can be customized as needed!
+    This README.md contains placeholders and can be customized as needed!
     <br />
     <br />
     Please ⭐ this repository if you find it helpful!
